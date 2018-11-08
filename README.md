@@ -5,7 +5,7 @@ Files-
 
 Anime
 
-Database
+[Database](https://github.com/MoonlitDeath/Disgaea-5-Notes/wiki)
 
 Map
 
