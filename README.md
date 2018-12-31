@@ -1,4 +1,6 @@
 # Disgaea-5-Notes
+My Discord group for modding if you want to help, need help with anything, or just want to talk is here- https://discord.gg/jWs98CX
+
 This is just some notes on the files of Disgaea 5
 
 Files-
