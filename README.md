@@ -11,7 +11,7 @@ Anime
 
 Map
 
-Movie-This is the opening movie, you can probably remove it or change it
+Movie
 
 Object
 
